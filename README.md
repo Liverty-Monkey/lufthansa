@@ -1,4 +1,4 @@
-**Lufthansa Stock Price Prediction
+##　Lufthansa Stock Price Prediction
 
 This project is a machine learning model designed to predict Lufthansa's future stock prices using two approaches:
 1. **Linear Regression** to predict the actual future stock prices (numerical values).
