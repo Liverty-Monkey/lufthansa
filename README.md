@@ -1,9 +1,3 @@
-I'll start by examining the content of your uploaded notebook file to better understand it. Then, I can help you write the README for it. Let me check it now.
-
-The notebook you uploaded seems to be a stock price prediction model. It involves predicting the future movements of stock prices for Lufthansa using historical data. Below is a potential outline for the README file:
-
----
-
 # Lufthansa Stock Price Prediction
 
 This project is a machine learning model designed to predict the future movement of Lufthansa's stock price for the next 7 days based on historical data. The prediction is binary, with outputs indicating whether the stock price is likely to move **UP** or **DOWN**.
